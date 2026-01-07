@@ -2,10 +2,10 @@
 
 Mochi is a 3D-printed, WiFi-connected desk companion that displays the time and reacts to your touch.I made this mini desk robot to get relaxed when am in my desk for long time, it will help me to check the time also. Whenever am doing my long homework and project works I feel bored and tired and I don't have table clock also so that I planned to make this Mochi robot.
 
-#Features
-*NTP Time Sync-Automatically fetches Nepal Time (UTC+5:45).
-*Touch Interface-Short Tap-Makes Mochi happy.
-*Long Press-Displays the current time.
+#Features                                                                                                                                    
+*NTP Time Sync-Automatically fetches Nepal Time (UTC+5:45).                                                                                  
+*Touch Interface-Short Tap-Makes Mochi happy.                                                                                                
+*Long Press-Displays the current time.                                                                                                       
 *connect to app and control more.
 
 It is a small desk robot which gives emotions when we touch it or even shows time. It requires some coding and a 3D printed head and some of the electronic items like ESP32-C3 as the main controller, 3.7V lithium battery, a charging module, OLED display and touch sensor.
