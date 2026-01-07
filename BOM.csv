@@ -1,34 +1,9 @@
-Reference, Item, URL, QTY, Price(NPR), Total(NPR into USD)
-
-1. 0.96inch OLED DisplayModule SSD1306
-i)URL-https://s.daraz.com.np/s.EFu4
-ii) QTY-1
-iii) price(NPR)-RS. 818
-
-2.ESP32 C3 Super mini
-i)URL-https://s.daraz.com.np/s.EvZ3
-ii) QTY-1 
-iii) price(NPR)-RS. 1007
-
-3. Lithium Rechargeable battery 3.7V 100 mAh
-i)URL-https://s.daraz.com.np/s.Evbs
-ii) QTY-1
-iii) price(NPR)-RS. 250
-
-4.Touch Sensor
-i)URL-https://s.daraz.com.np/s.EvYh
-ii) QTY-1
-iii) price(NPR)- RS. 47
-
-5.Type-C Lithium Battery Charger Module Board
-i)URL-https://s.daraz.com.np/s.EvYy
-ii) QTY-1
-iii) price(NPR)-RS. 115
-
-6.3D Printed body
---I don't have acess to 3D Printer but it is really expensive here--
-
-> Total (NPR) including delivery chage and some discount =RS. 2,237+300
-                                                       =RS. 2,537
-
-Grand Total cost in USD=17.57$
+Reference,Item,URL,QTY,Price(NPR),Total(NPR into USD)
+1,0.96inch OLED Display Module SSD1306,https://s.daraz.com.np/s.EFu4,1,818,818
+2,ESP32 C3 Super mini,https://s.daraz.com.np/s.EvZ3,1,1007,1007
+3,Lithium Rechargeable battery 3.7V 100 mAh,https://s.daraz.com.np/s.Evbs,1,250,250
+4,Touch Sensor,https://s.daraz.com.np/s.EvYh,1,47,47
+5,Type-C Lithium Battery Charger Module Board,https://s.daraz.com.np/s.EvYy,1,115,115
+6,3D Printed body,,1,,
+,Delivery & discounts,,,300,300
+,Grand Total,,,2537,17.57
