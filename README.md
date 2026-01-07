@@ -5,3 +5,4 @@ I made this mini desk robot to get relaxed when am in my desk for long time, it 
 It is a small desk robot which gives emotions when we touch it or even shows time. It requires some coding and a 3D printed head and some of the electronic items like ESP32-C3 as the main controller, 3.7V lithium battery, a charging module, OLED display and touch sensor.
 
 https://github.com/ridenshrestha3-commits/Mochi-desk-robot/blob/main/Screenshot_20260102_074905_Creality%20Cloud.jpg?raw=true
+<img width="800" height="632" alt="image" src="https://github.com/user-attachments/assets/d358b30d-dc84-4a37-af0a-e3e906391afe" />
