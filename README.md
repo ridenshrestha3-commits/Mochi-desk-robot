@@ -8,4 +8,5 @@ It is a small desk robot which gives emotions when we touch it or even shows tim
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/e31d57b2-5794-4ba5-becc-36e1fa044504" />
 
 #Wiring diagram
+
 <img width="800" height="451" alt="1000025360" src="https://github.com/user-attachments/assets/282bd6cb-362e-458c-bb20-fe3a39dbc6dc" />
