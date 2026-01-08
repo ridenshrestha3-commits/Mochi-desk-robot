@@ -15,4 +15,4 @@ It is a small desk robot which gives emotions when we touch it or even shows tim
 
 #Wiring Diagram
 
-<img width="800" height="451" alt="1000025360" src="https://github.com/user-attachments/assets/282bd6cb-362e-458c-bb20-fe3a39dbc6dc" />
+<img width="1280" height="720" alt="1000025465" src="https://github.com/user-attachments/assets/4913373a-b287-43b8-8c0f-5344381c211f" />
