@@ -1,4 +1,4 @@
-Reference,Item,URL,QTY,Price(NPR),Total(NPR into USD)
+S.NO,Item,URL,QTY,Price(NPR),Total(NPR into USD)
 1,0.96inch OLED Display Module SSD1306,https://s.daraz.com.np/s.EFu4,1,818,
 2,ESP32 C3 Super mini,https://s.daraz.com.np/s.EvZ3,1,1007,
 3,Lithium Rechargeable battery 3.7V 100 mAh,https://s.daraz.com.np/s.Evbs,1,250,
