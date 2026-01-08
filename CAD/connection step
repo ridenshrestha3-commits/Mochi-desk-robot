@@ -1,4 +1,6 @@
 connect all the items according to my connection shown in README.md, 
 after connection u need to connect ESP32 C-3 with laptop/computer then u can add your own coding or you can even use webpage (https://themochi.huykhong.com/) to operate
-after all done u may need a app (chronos) tocontrol it/
+after all done u may need a app (chronos) tocontrol it.
+you will need to add expression also when you will do coding by yourself
   after conecting it place it inside the 3D printed body case.
+(If you want to add gyrosensor also then the web will not work to make gyrosensor work you need to use my code or you need to make your own)
