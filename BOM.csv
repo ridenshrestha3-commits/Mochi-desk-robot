@@ -1,13 +1,9 @@
 Reference,Item,URL,QTY,Price(NPR),Total(NPR into USD)
-1,0.96inch OLED Display Module SSD1306,https://s.daraz.com.np/s.EFu4,1,818,
-2,ESP32 C3 Super mini,https://s.daraz.com.np/s.EvZ3,1,1007,
-3,Lithium Rechargeable battery 3.7V 100 mAh,https://s.daraz.com.np/s.Evbs,1,250,
-4,Touch Sensor,https://s.daraz.com.np/s.EvYh,1,47,
-5,Type-C Lithium Battery Charger Module Board,https://s.daraz.com.np/s.EvYy,1,115,
-6,MPU-9250,,1,1406,
-7,MAX-98357,,1,864,
-8,SPEAKER,,2,1751,
-9,SWITCH,,1,79,
-,Delivery CHARGE,, ,1192,
-,Discounts,, ,441,
-,Grand Total,, ,7088,48.91,
+1,0.96inch OLED Display Module SSD1306,https://s.daraz.com.np/s.EFu4,1,818,818
+2,ESP32 C3 Super mini,https://s.daraz.com.np/s.EvZ3,1,1007,1007
+3,Lithium Rechargeable battery 3.7V 100 mAh,https://s.daraz.com.np/s.Evbs,1,250,250
+4,Touch Sensor,https://s.daraz.com.np/s.EvYh,1,47,47
+5,Type-C Lithium Battery Charger Module Board,https://s.daraz.com.np/s.EvYy,1,115,115
+6,3D Printed body,,1,,
+,Delivery & discounts,, ,300,300
+,Grand Total,, ,2537,17.57
