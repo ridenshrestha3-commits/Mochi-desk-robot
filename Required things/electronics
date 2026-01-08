@@ -3,4 +3,8 @@ touch sensor
 batttery
 charging module
 ESP32 C-3
+MPU-9250
+MAX98357
+SMALL SPEAKER
+SLIDE SWITCH
 3D printed body
